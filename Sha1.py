@@ -9,7 +9,3 @@ if (num1 > num2):
 #Display if num1 is < num2
 if (num1 < num2):
     print('Number 1 is smaller than Numbre 2')
-
-#Display if they are equal
-if (num1 == num2):
-    print('Number 1 and Number 2 are equal')
